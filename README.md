@@ -16,4 +16,4 @@ Built with Botpress Cloud (Webchat v3.6)
 Dynamic Tech Squad — Capaciti Tech Career Accelerator Bootcamp (2026)
 
 ## Live Demo
-https://cdn.botpress.cloud/webchat/v3.6/shareable.html?configUrl=https://files.bpcontent.cloud/2026/04/23/11/20260423111610-ZUSWV6RD.json 
+Link to the chatbot: DynaTech 
